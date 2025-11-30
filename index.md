@@ -1,6 +1,6 @@
 ---
 title: Excit3D
-nav_order: 1
+layout: home
 description: Welcome to Excit3D — we give your printer the good stuff.
 ---
 
