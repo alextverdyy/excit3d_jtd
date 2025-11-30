@@ -1,13 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Excit3D Wiki
+description: Wiki for Excit3D.
 theme: "just-the-docs"
 color_scheme: "violet"
 
 search_enabled: true
 search.rel_url: true
+logo: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop,q=95/Yanz7aGB31S7XLj6/1758233500242-1-1-mxB28xNeRgIrW8zy.png"
 
-
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+url: https://excit3dprints.com
