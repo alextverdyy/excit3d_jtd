@@ -1,22 +1,33 @@
-$body-background-color: #0D0D0D;
-$sidebar-color: #000000;
-$search-background-color: #1A1A1A;
+$color-scheme: dark;
 
-$body-text-color: #E6E6E6;
-$body-heading-color: #FFFFFF;
+// Core colors
+$body-background-color: #000000; 
+$sidebar-color: #000000; 
 
-$link-color: #9B5CFF; 
-$link-hover-color: #CBAAFF; 
+$body-heading-color: #ffffff;
+$body-text-color: #e6e6e6;
 
-$btn-primary-color: #FFFFFF;
-$btn-primary-background-color: #9B5CFF;
-$btn-primary-border-color: #9B5CFF;
+$link-color: #9b5cff;
+$nav-child-link-color: #cbaaff;
 
-$nav-child-link-color: #CBAAFF;
+// UI elements
+$base-button-color: #1a1a1a;
+$btn-primary-color: #ffffff;
 
-$accent-000: #000000;
-$accent-100: #1A1A1A;
-$accent-200: #333333;
-$accent-300: #4D4D4D;
-$accent-400: #666666;
-$accent-500: #808080;
+// Code blocks
+$code-background-color: #161616; 
+$code-linenumber-color: #cfcff0;
+
+// Feedback + tables
+$feedback-color: darken($sidebar-color, 3%);
+$table-background-color: #0d0d0d;
+
+// Search
+$search-background-color: #0d0d0d;
+$search-result-preview-color: #faf7ff; 
+
+// Borders
+$border-color: #1a1a1a;
+
+
+@import "./vendor/OneDarkJekyll/syntax";
