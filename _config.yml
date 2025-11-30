@@ -1,10 +1,10 @@
 title: Excit3D Wiki
 description: Wiki for Excit3D.
 theme: "just-the-docs"
+logo: "/assets/images/logo.png"
 color_scheme: "violet"
 
 search_enabled: true
 search.rel_url: true
-logo: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop,q=95/Yanz7aGB31S7XLj6/1758233500242-1-1-mxB28xNeRgIrW8zy.png"
 
 url: https://excit3dprints.com
