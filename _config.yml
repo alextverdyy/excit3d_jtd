@@ -1,9 +1,7 @@
 title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: "just-the-docs"
-
-just_the_docs:
-  color_scheme: violet
+color_scheme: violet
 
 search_enabled: true
 search.rel_url: true
